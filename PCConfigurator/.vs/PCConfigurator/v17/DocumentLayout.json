@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|d:\\dokumenty\\github\\dotnet\\pcconfigurator\\pcconfigurator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\configuratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\configuratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\configuratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\configuratorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\buildcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\partselectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\partselectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\buildlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\buildlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\buildlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\buildlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\savebuildform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\savebuildform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\savebuildform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\savebuildform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\configuratorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\configuratorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\forms\\partselectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\forms\\partselectorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\pcconfigurator\\pcconfiguratordbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{86A88023-25F3-4EFA-B383-E4EE6F5AE5E9}|PCConfigurator\\PCConfigurator.csproj|solutionrelative:pcconfigurator\\pcconfiguratordbdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 163,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Projekt]",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\MainForm.cs [Projekt]",
+              "RelativeToolTip": "PCConfigurator\\Forms\\MainForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:43:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartSelectorForm.cs [Projekt]",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\PartSelectorForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\PartSelectorForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\PartSelectorForm.cs [Projekt]",
+              "RelativeToolTip": "PCConfigurator\\Forms\\PartSelectorForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:45:22.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfiguratorForm.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\ConfiguratorForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\ConfiguratorForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\ConfiguratorForm.cs",
+              "RelativeToolTip": "PCConfigurator\\Forms\\ConfiguratorForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:51:19.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\MainForm.cs",
+              "RelativeToolTip": "PCConfigurator\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T22:43:55.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfiguratorForm.cs [Projekt]",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\ConfiguratorForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\ConfiguratorForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\ConfiguratorForm.cs [Projekt]",
+              "RelativeToolTip": "PCConfigurator\\Forms\\ConfiguratorForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T22:48:45.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildController.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\BuildController.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\BuildController.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\BuildController.cs",
+              "RelativeToolTip": "PCConfigurator\\BuildController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAkwKcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:24:50.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Program.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Program.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Program.cs",
+              "RelativeToolTip": "PCConfigurator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:09:39.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuildListForm.cs [Projekt]",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\BuildListForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\BuildListForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\BuildListForm.cs [Projekt]",
+              "RelativeToolTip": "PCConfigurator\\Forms\\BuildListForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:00:11.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SaveBuildForm.cs [Projekt]",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\SaveBuildForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\SaveBuildForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\SaveBuildForm.cs [Projekt]",
+              "RelativeToolTip": "PCConfigurator\\Forms\\SaveBuildForm.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:54:15.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuildListForm.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\BuildListForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\BuildListForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\BuildListForm.cs",
+              "RelativeToolTip": "PCConfigurator\\Forms\\BuildListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBQAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T00:00:59.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaveBuildForm.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\SaveBuildForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\SaveBuildForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\SaveBuildForm.cs",
+              "RelativeToolTip": "PCConfigurator\\Forms\\SaveBuildForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAnwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:54:40.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfiguratorForm.Designer.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\ConfiguratorForm.Designer.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\ConfiguratorForm.Designer.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\ConfiguratorForm.Designer.cs",
+              "RelativeToolTip": "PCConfigurator\\Forms\\ConfiguratorForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:09:30.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartSelectorForm.cs",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\PartSelectorForm.cs",
+              "RelativeDocumentMoniker": "PCConfigurator\\Forms\\PartSelectorForm.cs",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\Forms\\PartSelectorForm.cs",
+              "RelativeToolTip": "PCConfigurator\\Forms\\PartSelectorForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T23:46:30.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PCConfiguratorDBDataSet.xsd",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\PCConfiguratorDBDataSet.xsd",
+              "RelativeDocumentMoniker": "PCConfigurator\\PCConfiguratorDBDataSet.xsd",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\PCConfiguratorDBDataSet.xsd",
+              "RelativeToolTip": "PCConfigurator\\PCConfiguratorDBDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-01-27T22:29:34.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\App.config",
+              "RelativeDocumentMoniker": "PCConfigurator\\App.config",
+              "ToolTip": "D:\\Dokumenty\\GitHub\\DotNet\\PCConfigurator\\PCConfigurator\\App.config",
+              "RelativeToolTip": "PCConfigurator\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-25T23:22:04.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

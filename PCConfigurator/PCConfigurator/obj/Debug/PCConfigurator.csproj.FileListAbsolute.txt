@@ -1,0 +1,17 @@
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\bin\Debug\PCConfigurator.exe.config
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\bin\Debug\PCConfigurator.exe
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\bin\Debug\PCConfigurator.pdb
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\bin\Debug\MaterialSkin.dll
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.csproj.AssemblyReference.cache
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.Properties.Resources.resources
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.csproj.GenerateResource.cache
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.csproj.CoreCompileInputs.cache
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfig.F4EACAFC.Up2Date
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.exe
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.pdb
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.exe.config
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.PartSelectorForm.resources
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.SaveBuildForm.resources
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.ConfiguratorForm.resources
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.BuildListForm.resources
+D:\Dokumenty\GitHub\DotNet\PCConfigurator\PCConfigurator\obj\Debug\PCConfigurator.MenuForm.resources

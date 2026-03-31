@@ -1,0 +1,7 @@
+USE PCConfiguratorDB;
+GO
+
+ALTER TABLE Components ADD MemoryType NVARCHAR(20) NULL;
+ALTER TABLE Components ADD VramGB INT NULL;
+ALTER TABLE Components ADD ImageUrl NVARCHAR(255) NULL;
+GO
